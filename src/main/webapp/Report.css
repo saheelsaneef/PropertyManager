@@ -1,0 +1,41 @@
+@charset "UTF-8";
+
+html,body{
+    overflow: hidden;
+}
+.nav{
+	background-color: #46237a;
+	width: 20%;
+	height: 100vh;
+	overflow-y: auto;
+	position: fixed;
+}
+
+.nav img{
+	width: 30%;
+	border-radius: 50%;
+	margin-left: 90px;
+	
+}
+.home{
+	  background-size: cover;
+  	  margin-top: 0%;
+  	  width: 100%;
+      height: 100vh;
+      background: url('Image Background Purple Minimal Phone Wallpaper.png');
+}
+
+.table{
+	margin-left: 25%;
+	width: 70%;
+}
+.home .button{
+	margin-left:25%;
+	padding-top: 100px;
+	padding-bottom:15px ;
+}
+.button a:hover .btn-primary {
+    background-color: aliceblue;
+    border-color: #007bff;
+    color: #007bff;
+}

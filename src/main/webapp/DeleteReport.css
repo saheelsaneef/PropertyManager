@@ -1,0 +1,20 @@
+@charset "UTF-8";
+html,body{
+    background:url('v996-016-kroir9qc.jpg') ;
+    
+}
+
+.form{
+	width: 600px;
+	height: 80vh;
+	margin-left:400px;
+	margin-top: 75px;
+
+}
+.form-select{
+	width: 210px;
+}
+img{
+	height:626px;
+	width: 280px;
+}
