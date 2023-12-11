@@ -1,5 +1,4 @@
-
-<%-- <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>  --%>
+<%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %> 
 
 
 <%@ page language="java" contentType="text/html; charset=UTF-8"
@@ -37,7 +36,7 @@
 	</div>
 
 
-	<%-- <table class="table table-primary table-striped ">
+	<table class="table table-primary table-striped ">
 		<thead>
     		<tr>
     			<th scope="col">ID</th>
@@ -61,7 +60,7 @@
       			</tr>
       		</c:forEach>
   		</tbody>
-	</table> --%>
+	</table> 
 	
 	
 </section>
