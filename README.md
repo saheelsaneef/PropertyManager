@@ -23,7 +23,7 @@ Follow these steps to set up and run the Property Manager application on your lo
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/PropertyManager.git
+git clone https://github.com/saheelsaneef/PropertyManager.git
 
 # Import the project into Eclipse
 
